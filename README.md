@@ -1,11 +1,7 @@
 # Lesson_6
 # Primary application file
 
-Produce a Jupyter notebook that contains two financial analysis tools:
-
-A financial planner for emergencies so the memebers can be able to visualize their current savings. Also, the members can determine if they have enough reserves for an emergency fund.
-
-A financial planner for retirement.  This tool will will forcast their retirement porfolio 30 years out using the Monte Carlo simulation.
+Produce a Jupyter notebook A Jupyter notebook that contains your analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
 
 
 
